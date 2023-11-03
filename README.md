@@ -36,3 +36,7 @@ Este proyecto se distribuye bajo la licencia [GNU General Public License v3.0](L
 
 ----
 
+## Authors
+
+- [@FlorenciaCastro](https://github.com/Quqsa)
+
