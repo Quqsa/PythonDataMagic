@@ -36,4 +36,3 @@ Este proyecto se distribuye bajo la licencia [GNU General Public License v3.0](L
 
 ----
 
-Este proyecto se crea con fines educativos y de aprendizaje. Proporciona un ejemplo completo de cómo abordar un conjunto de datos, tratar datos faltantes y evaluar un modelo de aprendizaje automático. Siéntete libre de explorar, aprender y adaptar este proyecto a tus propias necesidades de análisis de datos de películas.
