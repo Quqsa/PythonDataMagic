@@ -25,12 +25,11 @@ El proyecto incluye la evaluación del rendimiento de un modelo de aprendizaje a
 
 Recomiendo utilizar Google Colab para este proyecto, ya que proporciona un entorno de desarrollo en la nube con soporte para Jupyter Notebook. Puedes acceder a las bibliotecas de Python y las herramientas de análisis de datos de manera sencilla sin preocuparte por la configuración del entorno.
 
-## Referencias
-
-- Wikipedia. (2023, 1 de septiembre). Sistema de calificaciones de la Motion Picture Association. Wikipedia, La enciclopedia libre. [Enlace](https://es.wikipedia.org/w/index.php?title=Sistema_de_calificaciones_de_la_Motion_Picture_Association&oldid=153462720).
-
-Este proyecto se crea con fines educativos y de aprendizaje. Proporciona un ejemplo completo de cómo abordar un conjunto de datos, tratar datos faltantes y evaluar un modelo de aprendizaje automático. Siéntete libre de explorar, aprender y adaptar este proyecto a tus propias necesidades de análisis de datos de películas.
-
 ### Licencia
 
 Este proyecto se distribuye bajo la licencia [GNU General Public License v3.0](LICENSE). Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+
+
+----
+
+Este proyecto se crea con fines educativos y de aprendizaje. Proporciona un ejemplo completo de cómo abordar un conjunto de datos, tratar datos faltantes y evaluar un modelo de aprendizaje automático. Siéntete libre de explorar, aprender y adaptar este proyecto a tus propias necesidades de análisis de datos de películas.
